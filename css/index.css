@@ -9,7 +9,6 @@
 	color: white;
 }
 
-/* Increase the font size of the heading */
 .topScreen h1 {
   font-size: 40px;
 }
@@ -38,7 +37,32 @@ body {
   padding: 20px;
 }
 
-.image {
-  background-color: #721cbd;
-  padding: 20px;
+
+.item {
+	background: c738d1;
+    vertical-align: top;
+    display:inline;
+    width: 100px;
+}
+.img {
+    width: 100px;
+    height: 100px;
+    background-color: c738d1;
+}
+.txtTitle {
+	text-align:center;
+	width:300px;
+	font-size:20px;
+	color: white;
+	background-color: #c738d1;
+    display: block;
+}
+
+.txtDate {
+	text-align:center;
+	width:300px;
+	font-size:12px;
+	color: white;
+	background-color: #c738d1;
+    display: block;
 }
